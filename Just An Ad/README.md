@@ -1,6 +1,6 @@
 # Just An Ad. Nothing To See Here
 
-![Screenshot](Just An Ad/Screenshot.png)
+![Screenshot](Screenshot.png)
 
 Unity **2020.1.9f1** or higher is required for building the demo.
 
